@@ -14,3 +14,13 @@ It is structured into 8 weekly modules which are as follow:
 - **Internship Week6** – Pivot, unpivot, error handling, transactions, and merge statements
 - **Internship Week7** – Star schema, snowflake schema, normalization concepts
 - **Internship Week8** – Slowly Changing Dimensions (SCD types 1–3), dynamic SQL, grouping sets basics & types
+
+# Purpose
+This repository serves both as:
+- A personal reference of what I learned during the internship
+- A portfolio showcasing SQL topics and techniques, including:
+  - Multi-level aggregations with GROUPING SETS, CUBE, and ROLLUP
+  - Window functions and analytical queries
+  - Stored procedures and procedural logic
+  - Joins, subqueries, and query optimization strategies
+
