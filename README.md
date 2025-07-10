@@ -20,7 +20,7 @@ This repository serves both as:
 - A personal reference of what I learned during the internship
 - A portfolio showcasing SQL topics and techniques, including:
   - Multi-level aggregations with GROUPING SETS, CUBE, and ROLLUP
-  - Window functions and analytical queries
+  - Functions and analytical queries
   - Stored procedures and procedural logic
   - Joins, subqueries, and query optimization strategies
 
