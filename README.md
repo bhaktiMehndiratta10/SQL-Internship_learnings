@@ -1,7 +1,7 @@
 # SQL-Internship_learnings
 
 This repository documents my **2 month internship journey** at SQL department , it contains detailed SQL study notes I created during this process.
-All work was developed and tested using **SQL Server Management Studio (SSMS)**.
+All work was developed and tested using **SQL Server Management Studio (SSMS)**
 
 # Repository structure
 It is structured into 8 weekly modules which are as follow:
